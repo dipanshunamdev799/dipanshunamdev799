@@ -6,7 +6,7 @@ I'm a passionate **Software Developer**, shaping digital experiences with lines 
 
 🔧 I enjoy tinkering with **cutting-edge technologies** and always hungry to learn more.
 
-💬 Want to collaborate or chat about? Ping me at dipanshunamdev799@gmail.com.
+💬 Want to collaborate or chat about? Ping me at (dipanshunamdev799@gmail.com).
 
 😄 Fun fact: When I'm not coding, you can find me exploring the great outdoors.
 
