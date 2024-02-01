@@ -30,4 +30,4 @@ Let's connect and explore the digital realm together:
 
 ### 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipanshunamdev799&show_icons=true&theme=radical)
