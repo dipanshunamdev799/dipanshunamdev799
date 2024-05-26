@@ -31,4 +31,6 @@ Let's connect and explore the digital realm together:
 ### 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipanshunamdev799&show_icons=true&theme=radical)
+<div>
 <a href="https://app.daily.dev/dipanshunamdev799"><img src="https://api.daily.dev/devcards/v2/kg3EgcRUJKirMflvPSmmz.png?r=pmx" width="356" alt="Dipanshu Namdev's Dev Card"/></a>
+</div>
