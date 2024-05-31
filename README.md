@@ -34,3 +34,4 @@ Let's connect and explore the digital realm together:
 <div>
 <a href="https://app.daily.dev/dipanshunamdev799"><img src="https://api.daily.dev/devcards/v2/kg3EgcRUJKirMflvPSmmz.png?r=pmx" width="356" alt="Dipanshu Namdev's Dev Card"/></a>
 </div>
+[![](https://visitcount.itsvg.in/api?id=dipanshunamdev799&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
