@@ -14,7 +14,7 @@ I'm a passionate **Software Developer**, shaping digital experiences with lines 
 
 Here are some tools and technologies I wield:
 
-- **Languages:** C, Python, C++
+- **Languages:** C, Python, C++, JavaScript
 - **Frameworks/Libraries:**  Node.js
 - **Databases:**  MySQL
 - **Tools:** Git, VS Code, WSL
